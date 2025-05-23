@@ -25,3 +25,4 @@ The model expects a CSV file in `data/paired_dataset_veg2bare.csv` containing:
 - **Optional**: SOC values and vegetation indices (e.g., NDVI) for extended experiments
 
 Example CSV format:
+hi
