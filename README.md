@@ -1,4 +1,4 @@
-# ReflectGAN: Vegetation-to-Bare Soil Reflectance Translation using GANs
+# ReflectGAN: Modeling Vegetation Effects for Soil Carbon Estimation from Satellite Imagery
 
 ReflectGAN is a deep learning framework designed to reconstruct bare soil reflectance from vegetation-contaminated satellite observations using a paired Generative Adversarial Network (GAN). This model supports improved Soil Organic Carbon (SOC) estimation by minimizing spectral distortions caused by vegetation cover.
 
