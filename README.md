@@ -105,9 +105,13 @@ python main.py
 If you find this work helpful, please cite:
 
 > D. Datta, M. Paul, M. Murshed, S. W. Teng, and L. Schmidtke,  
-> "**ReflectGAN: Modeling Vegetation Effects for Soil Carbon Estimation from Satellite Imagery**,"  
-> *IEEE Transactions on Geoscience and Remote Sensing (Under Review),* 2024.  
+> "**ReflectGAN: Modeling Vegetation Effects for Soil Carbon Estimation from Satellite Imagery**," 
+> arXiv preprint arXiv:2505.18546, 2025. https://arxiv.org/abs/2505.18546
+> 
 > [GitHub Repo](https://github.com/DristiDatta/ReflectGAN)
+> 
+This paper is currently under review at IEEE Transactions on Geoscience and Remote Sensing.  
+
 
 ---
 
